@@ -26,17 +26,13 @@ This application demonstrates how a basic online store works, where users can re
 
 ## Installation & Setup
 
-### Clone the Repository
-
-```bash
+### Clone the Repository:
 git clone https://github.com/your-username/online-store-management-system.git
-```
 
-### Move into the Project Folder
 
-```bash
+### Move into the Project Folder: 
 cd online-store-management-system
-```
+
 
 ###  Database Setup
 * Open **phpMyAdmin**
