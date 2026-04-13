@@ -3,11 +3,9 @@
 A lightweight **web-based e-commerce management application** built with **PHP** and **MySQL**. The system manages products, customers, carts, orders, and payments through a simple interface.
 
 ## Project Overview
-
 This application demonstrates how a basic online store works, where users can register, browse products, add to cart, and place orders, while the admin can manage products and monitor orders from the backend.
 
 ## Core Features
-
 * User registration and login
 * Product add, update, delete, and view
 * Shopping cart system
@@ -29,10 +27,8 @@ This application demonstrates how a basic online store works, where users can re
 ### Clone the Repository:
 git clone https://github.com/your-username/online-store-management-system.git
 
-
 ### Move into the Project Folder: 
 cd online-store-management-system
-
 
 ###  Database Setup
 * Open **phpMyAdmin**
