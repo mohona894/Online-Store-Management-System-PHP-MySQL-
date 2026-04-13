@@ -1,6 +1,6 @@
 # Online-Store-Management-System-PHP-MySQL-
 
-A lightweight **web-based e-commerce management application** built with **PHP** and **MySQL**. The system manages products, customers, carts, orders, and payments through a simple interface.
+A lightweight **web-based e-commerce management application** built with **PHP** and **MySQL**. The system manages products, customers, carts, orders and payments through a simple interface.
 
 ## Project Overview
 This application demonstrates how a basic online store works, where users can register, browse products, add to cart, and place orders, while the admin can manage products and monitor orders from the backend.
